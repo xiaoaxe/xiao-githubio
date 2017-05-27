@@ -65,11 +65,11 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-#theme: next
 #theme: pacman
+theme: raytaylorism
+#theme: next
 #theme: simple
 #theme: material
-theme: raytaylorism
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
