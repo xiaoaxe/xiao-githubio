@@ -1,0 +1,11 @@
+{
+    "social": {
+        "weibo": "http://weibo.com/hustbao",
+        "github": "https://github.com/githubao",
+		"rss": "/atom.xml"
+    },
+    "extern": {
+	    "伟大的Google": "https://www.google.com/ncr",
+		"好奇害死猫": "http://httpbin.org/image/png"
+    }
+}

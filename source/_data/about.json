@@ -1,0 +1,32 @@
+{
+    "avatar": "http://tva4.sinaimg.cn/crop.0.0.290.290.180/5c4190b0jw8eogzzejorjj2082082gmj.jpg",
+    "name": "小包",
+	"tag": "Java/Python/跑步/魔方/etc",
+    "desc": "github上面所有的项目，大都用了xiao开头，就酱紫",
+    "skills": {
+        "Java": 7,
+		"Python": 7,
+		
+		"invisible-split-line-1": -1,
+
+		"跑步": 7,
+		"魔方": 7,
+
+		"invisible-split-line-2": -1,
+
+		"etc": 10
+    },
+    "projects": [{
+		"name": "Github 项目列表",
+		"image": "https://d13yacurqjgara.cloudfront.net/users/138819/screenshots/2578899/dribbble_800x600_01_1x.png",
+		"tags": ["2017年", "Github"],
+		"description": "希望你有兴趣点进来看一下~，爱你哟",
+		"link_text": "",
+		"link": "https://github.com/githubao/xiao-all-project"
+	}
+    ],
+	"reward": [
+	    "http://raytaylorlin-blog.qiniudn.com/image/about/weixin_reward.png",
+		"http://raytaylorlin-blog.qiniudn.com/image/about/zhifubao_reward.png"
+	]
+}
