@@ -1,32 +1,40 @@
 {
-    "avatar": "http://tva4.sinaimg.cn/crop.0.0.290.290.180/5c4190b0jw8eogzzejorjj2082082gmj.jpg",
-    "name": "小包",
-	"tag": "Java/Python/跑步/魔方/etc",
-    "desc": "github上面所有的项目，大都用了xiao开头，就酱紫",
-    "skills": {
-        "Java": 7,
-		"Python": 7,
-		
-		"invisible-split-line-1": -1,
-
-		"跑步": 7,
-		"魔方": 7,
-
-		"invisible-split-line-2": -1,
-
-		"etc": 10
+  "avatar": "http://tva4.sinaimg.cn/crop.0.0.290.290.180/5c4190b0jw8eogzzejorjj2082082gmj.jpg",
+  "name": "小包",
+  "tag": "Java/Python/跑步/魔方/etc",
+  "desc": "Github上面所有的项目，大都用了xiao开头，就酱紫",
+  "skills": {
+    "Java": 7,
+    "Python": 7,
+    "invisible-split-line-1": -1,
+    "跑步": 7,
+    "魔方": 7,
+    "invisible-split-line-2": -1,
+    "etc": 10
+  },
+  "projects": [
+    {
+      "name": "Github 项目列表",
+      "image": "http://wx1.sinaimg.cn/orj360/5c4190b0ly1fg07emx2fgj20h60h6js8.jpg",
+      "tags": [
+        "2017",
+        "Github"
+      ],
+      "description": "从去年十月二号开始在Github上面写代码。零零散散地有任何的想法，都想去用技术实现。虽然自己一直在学习中，但也是一直在进步的，哈哈。希望你有兴趣点进来看一下~，爱你哟",
+      "link_text": "Github地址",
+      "link": "https://github.com/githubao/xiao-all-project"
     },
-    "projects": [{
-		"name": "Github 项目列表",
-		"image": "https://d13yacurqjgara.cloudfront.net/users/138819/screenshots/2578899/dribbble_800x600_01_1x.png",
-		"tags": ["2017年", "Github"],
-		"description": "希望你有兴趣点进来看一下~，爱你哟",
-		"link_text": "",
-		"link": "https://github.com/githubao/xiao-all-project"
-	}
-    ],
-	"reward": [
-	    "http://raytaylorlin-blog.qiniudn.com/image/about/weixin_reward.png",
-		"http://raytaylorlin-blog.qiniudn.com/image/about/zhifubao_reward.png"
-	]
+    {
+      "name": "",
+      "image": "http://wx4.sinaimg.cn/orj360/5c4190b0ly1fg075zkr3cj20e10e1js1.jpg",
+      "tags": null,
+      "description": "说出来你可能不信，我还有个微信公众号。主要记录一些技术类的文章，坚持了半年了，嗯^_^",
+      "link_text": "个人微信公众号",
+      "link": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495887363&ver=1&signature=h-E7prXpEKIu1wqhh2yixyM0f8rtUWofWU9mAlrkiZjkg2V1V*wMS8ZFGq097mJ37rL-IRM7cqfdpBiVdNjIxw=="
+    }
+  ],
+  "reward": [
+    "http://wx4.sinaimg.cn/mw690/5c4190b0ly1fg06sdbyrsj2089089755.jpg",
+    "http://wx4.sinaimg.cn/mw690/5c4190b0ly1fg06sdfu67j208c08aab1.jpg"
+  ]
 }

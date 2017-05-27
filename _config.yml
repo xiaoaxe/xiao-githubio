@@ -88,3 +88,10 @@ tag_generator:
   per_page: 0
 category_generator:
   per_page: 0
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
