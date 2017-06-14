@@ -1,7 +1,7 @@
 ---
 title: 平凡的日子
 categories:
-  - 爱情
+  - eve
 tags:
   - 平凡
 date: 2017-06-08 10:22:00
