@@ -2,7 +2,7 @@
 title: Fluent Xiao
 categories:
   - 生活
-  - next
+  - 成长
 tags:
   - 编程
   - 愉悦
